@@ -1,13 +1,6 @@
-<h1 align="center"></h1>
-
 <p align="center">
-  <img src="https://github.com/lynnv9/lynnv9/blob/main/descarga.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/lynnv9/lynnv9/main/descarga.gif" width="90%" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=800020&center=true&vCenter=true&lines=Initializing+system...;Loading+data...;Bioinformatics+module+activated;Welcome" />
-</p>
-
 ---
 
 ## 🩸 About me
