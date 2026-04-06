@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lynnv9/lynnv9/main/murcielago.gif" width="20%" />
+  <img src="https://raw.githubusercontent.com/lynnv9/lynnv9/main/murcielago.gif" width="30%" />
 </p>
 
 <p align="center">
