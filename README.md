@@ -10,7 +10,7 @@
 
 ## 🩸 About me
 
-Hi, I'm Lynn 🖤
+Hi, I'm Jo 🖤
 A health-oriented student exploring the world of technology and bioinformatics.
 
 I’m interested in building things that connect **health + data + technology**,
@@ -41,7 +41,8 @@ and turning complex ideas into something meaningful.
 Health Tech  
 Bioinformatics  
 Data Science  
-Creative Writing  
+Creative Writing
+Music  
 ```
 
 ---
